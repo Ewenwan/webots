@@ -3,6 +3,9 @@ Webots是Cyberbotics公司出品的便携式机器人仿真平台，可运行在
 
 Webots是一个商业产品，最新的版本是7.2.4，目前网上存在的只有6.2.4的破解版，从官网下载的版本刚开始打开的时候是试用版（Free）,这个免费版本是个鸡肋，它不允许用户修改机器人的控制器的代码，就是说，你不能写自己的控制器，图1.1可以看出来不同版本的区别。下载之后，从官网注册一个账号之后用注册的账号在软件的Preference中的License注册，可以免费使用30天的PRO版本，或者EDU版本。PRO版本是旗舰版，涵盖了软件所有的功能，所以使用的时候推荐使用PRO版本。
     
+    6.2.4破解版下载
+    链接: https://pan.baidu.com/s/140B1QD6GD0gOqFRnNN5GYQ 提取码: hxv5 
+    
 Webots is an open-source robot simulator that provides a complete development environment to model, program and simulate robots, vehicles and biomechanical systems.
 
 [![Webots Video](https://img.youtube.com/vi/O7U3sX_ubGc/0.jpg)](https://www.youtube.com/watch?v=O7U3sX_ubGc)
